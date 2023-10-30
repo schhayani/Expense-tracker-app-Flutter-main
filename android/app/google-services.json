@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957603833736",
+    "project_id": "expence-manager-82262",
+    "storage_bucket": "expence-manager-82262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957603833736:android:ced33e541185677d3b7c3d",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957603833736-623bin2masduh3tgfbrejt20j6oti559.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSQufhPkr2L3d4l8p9JJ61myiM2JXjOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957603833736-623bin2masduh3tgfbrejt20j6oti559.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
